@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Algorithm Visualizer 🔥</h1>
-  <img src=""/>
+  <div>
+    <img src="/html-5.png" width="100" height="100" />
+    <img src="/css-3.png" width="100" height="100" />
+    <img src="/java-script.png" width="85" height="85"/>
+    <img src="/data.png" width="85" height="85"/>
+  </div>
 
 
 
