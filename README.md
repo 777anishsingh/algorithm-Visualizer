@@ -1,6 +1,12 @@
-# Algorithm Visualizer 🔥
+<div align="center">
+  <h1>Algorithm Visualizer 🔥</h1>
+  <img src=""/>
+
+
 
 Algorithm Visualizer is a web application designed to help users visualize various searching and sorting algorithms in real-time. This tool is perfect for students, educators, and anyone interested in understanding how algorithms work step-by-step. The application provides visual demonstrations of popular algorithms, making complex processes easier to grasp.
+</div>
+
 
 ## Deployment Link
 [Algorithm Visualizer](https://algorithm-visualizer-anish.netlify.app/)
